@@ -8,6 +8,7 @@
 ```
 git clone https://github.com/hungk64it1x/face-mask-detection
 ```
+• installing requirements
 ```
 pip install -r requirements.txt
 ```
