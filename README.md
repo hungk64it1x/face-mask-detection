@@ -21,6 +21,7 @@ cd face-mask-detection
 python detect.py --weights yolov5s.pt --imgsz 640 --source 0 --half --nosave
 ```
 • You can put your training weight to other folder and change the path via code run
+• Link to weights: [weight](https://drive.google.com/drive/folders/1o94cG4uvTNYUzixzSqx5L047zU09WFzE?usp=sharing)
 
 • For training your custom dataset, follow this link: [Link](https://www.youtube.com/watch?v=12UoOlsRwh8)
 
